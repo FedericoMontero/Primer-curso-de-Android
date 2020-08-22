@@ -10,20 +10,20 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="603dp" />
+        android:text="Entrar"
+        tools:layout_editor_absoluteX="256dp"
+        tools:layout_editor_absoluteY="283dp" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="842dp"
-        android:layout_height="960dp"
+        android:layout_width="965dp"
+        android:layout_height="936dp"
         android:background="#FFF"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintHorizontal_bias="0.535"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/fondo"
-        tools:layout_editor_absoluteY="-146dp" />
+        tools:layout_editor_absoluteY="-79dp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:text="@string/titulo_name"
         android:textSize="36sp"
-        tools:layout_editor_absoluteX="112dp"
-        tools:layout_editor_absoluteY="142dp" />
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="53dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
