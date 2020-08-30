@@ -3,5 +3,6 @@
     <string name="app_name">Mi primera aplicacion</string>
     <string name="titulo_name">Bienvenue!</string>
     <string name="texto_de_app">Mi texto de aplicacion</string>
+    <string name="entrar">GO</string>
 </resources>
 

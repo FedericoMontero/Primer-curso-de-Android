@@ -3,4 +3,5 @@
     <string name="app_name">My first App</string>
     <string name="titulo_name">Welcome</string>
     <string name="texto_de_app">My text of app</string>
+    <string name="entrar">GO</string>
 </resources>
